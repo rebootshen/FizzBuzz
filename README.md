@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rebootshen/FizzBuzz.svg?branch=master)](https://travis-ci.org/rebootshen/FizzBuzz)
+[![Build Status](https://travis-ci.com/rebootshen/FizzBuzz.svg?branch=master)](https://travis-ci.com/rebootshen/FizzBuzz)
 <br />
 
 # FizzBuzz
